@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cimy Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-17 23:11+0300\n"
+"PO-Revision-Date: 2011-11-17 23:11+0300\n"
+"Last-Translator: Marco Cimmino <cimmino.marco@gmail.com>\n"
+"Language-Team:  <cimmino.marco@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/wp-content/plugins/cimy-counter\n"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:338
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:541
+msgid "SUCCESSFUL"
+msgstr "SUCCESSO"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:352
+msgid "General"
+msgstr ""
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:360
+msgid "installed is"
+msgstr "installata"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:364
+msgid "OPTIONS DELETED!"
+msgstr "OPZIONI CANCELLATE!"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:367
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:372
+msgid "Fix the problem"
+msgstr "Aggiusta il problema"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:367
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:372
+msgid "This operation will create/update all missing tables/options, do you want to proceed?"
+msgstr "Questa operazione creer&agrave;/aggiorner&agrave; tutte le tabelle/opzioni mancanti, vuoi procedere?"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:370
+msgid "VERSIONS MISMATCH! This because you haven't de-activated and re-activated the plug-in after the update! This could give problems..."
+msgstr "VERSIONI NON CORRISPONDENTI! Avviene quando non hai disattivato e riattivato il plug-in dopo l'aggiornamento! Questo pu&ograve; dare dei problemi..."
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:412
+msgid "Delete selected counters"
+msgstr "Cancella i contatori selezionati"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:413
+#, php-format
+msgid "Since %1$s downloaded %2$d times"
+msgstr "Dal %1$s scaricato %2$d volte"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:426
+msgid "Name empty"
+msgstr "Nome vuoto"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:428
+msgid "Name already exists"
+msgstr "Nome esistente"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:436
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:446
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:459
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:476
+msgid "Nothing selected"
+msgstr "Nessun campo selezionato"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:448
+msgid "Insert a number to set"
+msgstr "Inserisci un numero da applicare"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:461
+msgid "Insert a date to set"
+msgstr "Inserisci una data da applicare"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:478
+msgid "Insert a string to set"
+msgstr "Inserisci una stringa da applicare"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:527
+msgid "ERROR"
+msgstr "ERRORE"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:557
+msgid "New counter:"
+msgstr "Nuovo contatore:"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:558
+msgid "Add"
+msgstr "Aggiungi"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:564
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:622
+msgid "Invert selection"
+msgstr "Inverti selezione"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:565
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:623
+msgid "Are you sure you want to delete selected counters?"
+msgstr "Sei sicuro di volere cancellare i contatori selezionati?"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:569
+msgid "Name"
+msgstr ""
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:570
+msgid "Counter"
+msgstr "Contatore"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:571
+msgid "Since"
+msgstr "Dal"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:572
+msgid "Display string"
+msgstr "Stringa da visualizzare"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:573
+msgid "Downloads Counter link"
+msgstr "Link del contatore di download"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:574
+msgid "Views Counter link"
+msgstr "Link del contatore di visualizzazioni"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:626
+msgid "Set selected counters to:"
+msgstr "Modifica i contatori selezionati a:"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:627
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:631
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:635
+msgid "Apply"
+msgstr ""
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:630
+msgid "Set selected counters' date to:"
+msgstr "Modifica la data dei contatori selezionati a:"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:634
+msgid "Set selected counters' string to:"
+msgstr "Modifica la stringa dei contatori selezionati con:"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:639
+msgid "If you want to redirect to an external website this must be white listed for security reason."
+msgstr "Se si vuole ridirezionare verso un sito esterno bisogna che sia aggiunto alla lista bianca per motivi di sicurezza."
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:640
+msgid "Note: do not prepend 'http://' or 'ftp://' to the address."
+msgstr "Nota: non aggiungere 'http://' o 'ftp://' all'indirizzo."
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:643
+msgid "Add url to the white-list"
+msgstr "Aggiungi l'url alla lista bianca"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:647
+msgid "Empty list"
+msgstr "Lista vuota"
+
+#: /var/www/wp-content/plugins/cimy-counter/cimy_counter.php:654
+msgid "Delete selected urls"
+msgstr "Cancella gli indirizzi selezionati"
+
